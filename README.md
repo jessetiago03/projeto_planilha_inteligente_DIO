@@ -1,5 +1,4 @@
 <p align="center">
-<img 
     src="./assets/Projeto_Planilha_dio.xlsx"
     width="300"
 />
