@@ -15,7 +15,7 @@ Este projeto é um **dashboard interativo no Excel** e foi desenvolvido para mon
 
 ## Como ficou:
 <p align="center">
-<a href="https://https://github.com/jessetiago03/projeto_planilha_inteligente_DIO/blob/f01ec8e42ae4edc0232840c57b6c83fbf73e291a/assets/Projeto_Planilha_dio.xlsx">
+<a href="https://github.com/jessetiago03/projeto_planilha_inteligente_DIO/blob/main/assets/Projeto_Planilha_dio.xlsx">
     Planilha Inteligente
 </p>
 
