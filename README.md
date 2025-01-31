@@ -1,3 +1,10 @@
+<p align="center">
+<img 
+    src="./assets/Projeto_Planilha_dio.xlsx"
+    width="300"
+/>
+</p>
+
 # Money App: Planilha Inteligente no Excel
 
 # Visão Geral:
